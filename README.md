@@ -3,7 +3,7 @@
 
 # NGSPICE Command Reference
 
-This document provides a comprehensive list of NGSPICE commands to assist with circuit simulation and analysis.
+- This document provides a comprehensive list of NGSPICE commands to assist with circuit simulation and analysis.
 
 ---
 
