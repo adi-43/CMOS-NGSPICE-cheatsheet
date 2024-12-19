@@ -309,12 +309,7 @@
 - Use **.param** to allow easy modification of source values.
 
 This list includes all major configurations for power sources in Xschem and SPICE simulations. Let me know if you'd like examples for specific use cases!
-```
 
-```markdown
-### Comprehensive Xschem Shortcuts, Commands, and Power Source Configurations
-
----
 
 ## **Xschem Shortcuts**
 
